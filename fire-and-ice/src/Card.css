@@ -1,0 +1,12 @@
+.bg-card{
+    color: white;
+}
+.card-content{
+    background-color:rgba(0, 0, 0, .7);
+    width: 220px;
+    height: 300px;
+}
+.card-content ul li{
+    padding-top: .5rem;
+    list-style: none;
+}
